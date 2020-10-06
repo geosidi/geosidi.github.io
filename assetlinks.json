@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lbg.mobile.sw.SWApp.qaBuildType",
+      "sha256_cert_fingerprints": [
+        "3F:C0:84:60:73:D3:54:15:9A:7B:28:DE:FB:D5:33:B3:E1:A6:86:5D:4C:36:4B:BC:69:F1:F7:D9:DF:F6:FB:E5"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lbg.mobile.sw.SWApp.prod",
+      "sha256_cert_fingerprints": [
+        "3F:C0:84:60:73:D3:54:15:9A:7B:28:DE:FB:D5:33:B3:E1:A6:86:5D:4C:36:4B:BC:69:F1:F7:D9:DF:F6:FB:E5"
+      ]
+    }
+  }
+]
