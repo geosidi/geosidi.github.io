@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/512px-ANT1_Greek_channel_logo.svg.png" group-title="Undefined",ANT1 (1080p)
+http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
