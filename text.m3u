@@ -1,3 +1,17 @@
-#EXTM3U
-#EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept1-live"tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks.m3u8
+[
+  {
+    "id": "1",
+    "type": 0,
+    "timestamp": 123456789
+  },
+  {
+    "id": "2",
+    "type": 1,
+    "timestamp": 123456789
+  },
+  {
+    "id": "3",
+    "type": 2,
+    "timestamp": 123456789
+  }
+]
